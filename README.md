@@ -7,10 +7,10 @@
 **[Zikang Leng](https://zikangleng.github.io/), [Thomas Plötz](https://ploetzlab.net/)**
 <br>Georgia Institute of Technology
 
-**Under review at Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)**
+**Under review**
 
 [![Project Page](https://img.shields.io/badge/Project-Page-E0711F?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
-[![IMWUT](https://img.shields.io/badge/IMWUT-under%20review-1C2B4A?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
+[![Status](https://img.shields.io/badge/status-under%20review-1C2B4A?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-B31B1B?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2F6FB5?style=for-the-badge)](LICENSE)
 
@@ -57,11 +57,10 @@ See the [project page](https://zikangleng.github.io/imudrape/) for interactive r
 ## Citation
 
 ```bibtex
-@article{leng2026imudrape,
+@misc{leng2026imudrape,
   title   = {IMUdrape: Generating Garment-Mounted Virtual IMU Data from Text
              through Physics-Based Cloth Simulation},
   author  = {Leng, Zikang and Pl{\"o}tz, Thomas},
-  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
   year    = {2026},
   note    = {Under review}
 }
