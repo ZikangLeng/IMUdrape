@@ -11,7 +11,7 @@
 
 [![Project Page](https://img.shields.io/badge/Project-Page-E0711F?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
 [![Status](https://img.shields.io/badge/status-under%20review-1C2B4A?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-B31B1B?style=for-the-badge)](https://zikangleng.github.io/imudrape/)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.02393-B31B1B?style=for-the-badge)](https://arxiv.org/abs/2611.02393)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2F6FB5?style=for-the-badge)](LICENSE)
 
 <img src="assets/imudrape_teaser.jpg" alt="IMUdrape pipeline: an LLM-written activity description, generated body motion, a garment generated from a photo or text as a sewing pattern and sewn onto the body, garment simulation with body and garment IMUs, and a garment IMU paired with the body IMU beneath it, whose gyro signals differ strongly" width="100%">
@@ -58,10 +58,13 @@ See the [project page](https://zikangleng.github.io/imudrape/) for interactive r
 
 ```bibtex
 @misc{leng2026imudrape,
-  title   = {IMUdrape: Generating Garment-Mounted Virtual IMU Data from Text
-             through Physics-Based Cloth Simulation},
-  author  = {Leng, Zikang and Pl{\"o}tz, Thomas},
-  year    = {2026},
-  note    = {Under review}
+  title         = {IMUdrape: Generating Garment-Mounted Virtual IMU Data from Text
+                   through Physics-Based Cloth Simulation},
+  author        = {Leng, Zikang and Pl{\"o}tz, Thomas},
+  year          = {2026},
+  eprint        = {2611.02393},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2611.02393}
 }
 ```
